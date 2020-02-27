@@ -1,0 +1,17 @@
+.directory-maker-menu {
+  display: grid;
+  gap: 15px;
+  grid-template-columns: repeat(auto-fit, 105px);
+  grid-template-rows: repeat(4, 150px);
+  justify-content: space-evenly;
+  padding: 20px;
+  background-color: whitesmoke;
+}
+
+.search-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin: auto;
+}

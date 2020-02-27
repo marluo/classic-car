@@ -1,0 +1,22 @@
+.sign-in {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+
+  .buttons {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+h2 {
+  margin: 10px 0;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2em;
+  font-weight: lighter;
+}
+
+span {
+  font-size: 1em;
+}
+
